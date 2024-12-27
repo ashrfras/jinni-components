@@ -1,6 +1,6 @@
 # مكونات جني
 
-اضغط على المكون لعرض توثيقه:
+اضغط على اسم المكون للانتقال إلى مصدره وتوثيقاته:
 
 ## [ئكسبرس](https://github.com/ashrfras/jinni-components/tree/master/%D8%A6%D9%83%D8%B3%D8%A8%D8%B1%D8%B3)
 معالجة طلبات أشتبي في الطرف الخلفي.
@@ -25,3 +25,9 @@
 
 ## [غمازة](https://github.com/ashrfras/jinni-components/tree/master/%D8%BA%D9%85%D8%A7%D8%B2%D8%A9)
 شريط سفلي صغير يعرض رسالة تم يختفي، يستخدم غالبا لإشعار المستخدم بتغير حالة ما.
+
+## [فونت](https://github.com/ashrfras/jinni-components/tree/master/%D9%81%D9%88%D9%86%D8%AA)
+للتحكم في خطوط الصفحة بشكل سهل، سريع ومباشر ضمن [جنيكس](https://www.youtube.com/shorts/pZylVaqCatA) دون حاجة إلى ورقات التنسيق.
+
+## [نعملا](https://github.com/ashrfras/jinni-components/tree/master/%D9%86%D8%B9%D9%85%D9%84%D8%A7)
+نويفذة منبثقة تعرض رسالة مخصصة وزرين: "نعم و لا"، أو "موافق و إلغاء" أو أزرار مخصصة.
